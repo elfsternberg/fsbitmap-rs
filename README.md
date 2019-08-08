@@ -21,6 +21,8 @@ panic.
 ## License
 
 Copyright [Elf M. Sternberg](https://elfsternberg.com) (c) 2019, and
-licensed with the Mozilla Public License vers. 2.0.  A copy of the
-license file is included in the root folder.
+licensed with the Mozilla Public License vers. 2.0.  A [copy of the
+license file is included in the `docs/` folder](./docs/LICENSE.md).
+Contributors should also review the [code of
+conduct](./docs/CODE_OF_CONDUCT.md) file.
 

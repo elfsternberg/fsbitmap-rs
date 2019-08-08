@@ -3,5 +3,9 @@ name = "fsbitmap"
 version = "0.1.0"
 authors = ["Elf M. Sternberg <elf.sternberg@gmail.com>"]
 edition = "2018"
+license = "MPL-2.0+"
+description = "Simple, Vec-backed bitmap that takes only two instructions to set/retrieve a bit."
+repository = "https://github.com/elfsternberg/fsbitmap-rs/"
+readme = "./README.md"
 
 [dependencies]
